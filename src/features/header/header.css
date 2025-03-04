@@ -1,0 +1,25 @@
+.header-component {
+    background-color: white; 
+    display: flex;
+    flex-direction: row;
+    padding: 1em;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2em;
+  
+}
+
+.header-component h1 {
+    color: blue;
+}
+
+.header-component h1 strong {
+    color: black
+}
+
+.hamburger-btn {
+    max-width: 45px;
+    max-height: fit-content;
+}
