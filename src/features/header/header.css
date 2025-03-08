@@ -19,6 +19,12 @@
     color: black
 }
 
+input[name="search-bar"] {
+    max-width: 10em;
+    margin: auto;
+    border-radius: 10em;
+}
+
 .hamburger-btn {
     max-width: 45px;
     max-height: fit-content;
